@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LUdevspJU+ZBTmGCelV7jm7S/hoAR0VELpftXOxQFEA=",
+  "Hash": "Zeo/HRnj8TzuSfxzKc0kXT07uJ0chCIrdQWrt8MKero=",
   "Source": "EmprestimoLivros",
   "BasePath": "_content/EmprestimoLivros",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EmprestimoLivros.bundle.scp.css"
     },
     {
+      "Identity": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\materia.css",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "css/materia.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\materia.css"
+    },
+    {
       "Identity": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\css\\site.css",
       "SourceId": "EmprestimoLivros",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\img\\read_book_study_icon-icons.com_51077.png",
+      "SourceId": "EmprestimoLivros",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\",
+      "BasePath": "_content/EmprestimoLivros",
+      "RelativePath": "img/read_book_study_icon-icons.com_51077.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\read_book_study_icon-icons.com_51077.png"
     },
     {
       "Identity": "C:\\projetos_c-sharp\\EmprestimoLivros\\EmprestimoLivros\\wwwroot\\js\\site.js",
